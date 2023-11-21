@@ -23,11 +23,7 @@ _April 2023 - June 2023_
 
 ## Education
 ### 9 months professional diploma, Game Programming Track
-Information Technology Institute (ITI)
-
-<i>October 2022 - July 2023</i>
+Information Technology Institute (ITI) <br/><i>October 2022 - July 2023</i>
 
 ### Bachelor of Computer and System Engineering
-Ain Shams University (ASU)
-
-_September 2016 - July 2022_
+Ain Shams University (ASU) <br/>_September 2016 - July 2022_
