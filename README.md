@@ -3,7 +3,6 @@ Experienced and dedicated game programmer proficient in C++ and C#, skilled in a
 
 ## Projects
 ### <a target="_blank" href= "https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker"> Harvest: Bricks Breaker</a>
-### <a target="_blank" href= "https://github.com/RadwaAhmed4869/Harvest-Bricks-Breaker"> Harvest: Bricks Breaker</a>
 
 Unreal 3D version of one of the most famous classical games "Bricks Breaker".
 
