@@ -14,6 +14,7 @@ _October 2023_
 * Different Power-ups types.
 
 ### <a target="_blank" href="https://github.com/RayanYousef/NetworkNinja_Showcase/tree/main"> Network Ninja</a>
+<a target="_blank" href="https://drive.google.com/file/d/19PhogJuXqhvriExU712UZ8bufOTLkO0j/preview"> Demo</a><br/>
 3D action-adventure hack-and-slash serious PC game developed for ITI graduation project.
 
 _April 2023 - June 2023_
