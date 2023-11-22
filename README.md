@@ -32,14 +32,14 @@ Ain Shams University (ASU) <br/>_September 2016 - July 2022_
 
 ## Courses
 _October 2023_<br/>
-Unreal Engine 4 Blueprints - The Ultimate Developer Course _By Stephen Ulibarri on Udemy_
+* Unreal Engine 4 Blueprints - The Ultimate Developer Course _By Stephen Ulibarri on Udemy_
 
 _April 2023_<br/>
-<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/PBQD9QLL6CH7"> Agile Project Management - Coursera </a><br/>
-<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/GL46WSMLRFJV"> Game Design Document: Define the Art & Concepts - CalArts </a>
+* <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/PBQD9QLL6CH7"> Agile Project Management - Coursera </a><br/>
+* <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/GL46WSMLRFJV"> Game Design Document: Define the Art & Concepts - CalArts </a>
 
 ## Volunteer and Awards
-1st place, <a target="_blank" href="https://lablab.me/event/gaming-hackathon/hash-include-ai/techquest-a-journey-through-the-lost-world"> LabLabMe Gaming Hackathon</a> _26 - 29 October 2023_  
-
-5th place, <a target="_blank" href="https://www.linkedin.com/posts/information-technology-institute-iti-_mcit-iti-activity-7066481578624847872-qhsm?utm_source=share&utm_medium=member_desktop"> WE Innovate Hackathon"</a> _16 - 18 May 2023_<br/>
+* 1st place, <a target="_blank" href="https://lablab.me/event/gaming-hackathon/hash-include-ai/techquest-a-journey-through-the-lost-world"> LabLabMe Gaming Hackathon</a> _26 - 29 October 2023_  
+Acknowledged for developing "TechQuest", an action educational game powered by AI technologies, such as Bard, text-to-speech, and voice recognition.<br/>
+* 5th place, <a target="_blank" href="https://www.linkedin.com/posts/information-technology-institute-iti-_mcit-iti-activity-7066481578624847872-qhsm?utm_source=share&utm_medium=member_desktop"> WE Innovate Hackathon"</a> _16 - 18 May 2023_<br/>
 Acknowledged for developing "Network Ninja", a serious game on cyber security awareness targeting 10+
