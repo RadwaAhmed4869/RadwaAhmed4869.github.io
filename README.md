@@ -14,8 +14,7 @@ _October 2023_
 * Different Power-ups types.
 
 ### <a target="_blank" href="https://github.com/RayanYousef/NetworkNinja_Showcase/tree/main"> Network Ninja</a>
-<a target="_blank" href="https://drive.google.com/file/d/19PhogJuXqhvriExU712UZ8bufOTLkO0j/preview"> Demo</a><br/>
-3D action-adventure hack-and-slash serious PC game developed for ITI graduation project.
+3D action-adventure hack-and-slash serious PC game developed for ITI graduation project. <a target="_blank" href="https://drive.google.com/file/d/19PhogJuXqhvriExU712UZ8bufOTLkO0j/preview"> Demo</a><br/>
 
 _April 2023 - June 2023_
 * Integrated the Zxcvbn Dropbox pre-built library to evaluate password strength to benefit from its large database and automatic feedback.
