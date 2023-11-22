@@ -29,3 +29,11 @@ Information Technology Institute (ITI) <br/><i>October 2022 - July 2023</i>
 
 ### Bachelor of Computer and System Engineering
 Ain Shams University (ASU) <br/>_September 2016 - July 2022_
+
+## Courses
+_October 2023_<br/>
+Unreal Engine 4 Blueprints - The Ultimate Developer Course _By Stephen Ulibarri on Udemy_
+
+_April 2023_<br/>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/PBQD9QLL6CH7"> Agile Project Management - Coursera </a><br/>
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/GL46WSMLRFJV"> Game Design Document: Define the Art & Concepts - CalArts </a>
